@@ -5,4 +5,4 @@ Displays Motor Temperatures, Voltage, And Current on Brain in VexCode
 [VexCode V5 Text 1.0.4](https://www.vexrobotics.com/vexcode-download)
 
 # Contents
-* Displays the Temperatures, Voltage, and Current of 8 Motors on The Brain
+* Displays the Temperatures, Voltage, and Current of 8 Motors on the Brain
