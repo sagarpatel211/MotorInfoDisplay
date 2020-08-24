@@ -18,7 +18,7 @@ This program displays important information about motors onto Brain using VexCod
 * Make sure all the dependencies are installed
 * Download the files
   * Option 1: 🍴 Fork this repository!
-  * Option 2: 🧪 Clone the repository to your local machine using https://github.com/sagarpatel211/ICS3U1-Project.git!
+  * Option 2: 🧪 Clone the repository to your local machine using https://github.com/sagarpatel211/MotorInfoDisplay.git!
 * Open *Motor_Info_GUI.v5code* in VexCode to open the program
 * Download the program to the brain by connecting the V5 Brain or controller to the device via micro-USB and select *download*. In both options, the V5 Brain must be on!
 * Run the program by selecting it from the V5 Brain or pressing the *play* button in VexCode **if** the V5 Brain or controller is attached to the device via micro-USB.
