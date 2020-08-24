@@ -11,7 +11,7 @@ This program displays important information about motors onto Brain using VexCod
 
 
 ## Dependencies
-[VexCode V5 Text 1.0.4](https://www.vexrobotics.com/vexcode-download)
+[VexCode Pro V5 Text 2.0.0 or later](https://www.vexrobotics.com/vexcode-download)
 
 
 ## Installation
