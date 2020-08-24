@@ -10,11 +10,11 @@ This program displays important information about motors onto Brain using VexCod
 * [Contact](#contact)
 
 
-# Dependencies
+## Dependencies
 [VexCode V5 Text 1.0.4](https://www.vexrobotics.com/vexcode-download)
 
 
-# Installation
+## Installation
 * Make sure all the dependencies are installed
 * Download the files
   * Option 1: 🍴 Fork this repository!
@@ -24,7 +24,7 @@ This program displays important information about motors onto Brain using VexCod
 * Run the program by selecting it on the V5 Brain or the *play* button in VexCode **if** the brain is attached to the device via micro-USB.
 
 
-# Features
+## Features
 * Displays the Temperatures, Voltage, and Current of 8 Motors on the Brain
 
 
