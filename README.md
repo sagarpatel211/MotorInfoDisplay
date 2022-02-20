@@ -36,4 +36,4 @@ This program displays important information about motors onto Brain using VexCod
 
 
 ## Contact
-[Email](mailto:patelsag@students.dsbn.org) | [Website](https://sagarpatel211.github.io/)
+[Email](mailto:sa24pate@uwaterloo.ca) | [Website](https://sagarpatel211.github.io/)
